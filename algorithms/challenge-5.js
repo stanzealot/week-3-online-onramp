@@ -64,3 +64,19 @@ Object.freeze(MORSE_CODE)
 function morse(text) {}
 
 module.exports = morse
+
+// let message = "hi"
+// let space =" "
+
+// //let index = message.indexOf(space);
+// let index = message.indexOf(space)
+//  let newMessage = message.slice(index);
+//   let word = message.slice(0,index);
+//   message = newMessage;
+
+
+
+
+// for(i=0;i<message.length;i++){
+//     if(message[0])
+// }
